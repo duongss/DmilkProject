@@ -6,7 +6,7 @@
     tools:context=".MainActivity">
 
     <FrameLayout
-        android:id="@+id/id_activity_main_fl_login"
+        android:id="@+id/id_activity_main_fl_logins"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
