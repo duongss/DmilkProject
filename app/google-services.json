@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "879923953845",
+    "firebase_url": "https://dmilk-clinic.firebaseio.com",
+    "project_id": "dmilk-clinic",
+    "storage_bucket": "dmilk-clinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879923953845:android:89d7a5f2e2c3d7e59f7efc",
+        "android_client_info": {
+          "package_name": "com.example.applicationdmilk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879923953845-gmnme2c2npqo70helj5tklr0dckncet8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.applicationdmilk",
+            "certificate_hash": "25f3226ed485408856938c518e5e7acfab8e8dbe"
+          }
+        },
+        {
+          "client_id": "879923953845-us7cubp4tvoh9f17ffjavdt8ji88b0pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdwVwSKUBVF58MJaiwlpNDJw-NMIfXXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879923953845-us7cubp4tvoh9f17ffjavdt8ji88b0pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879923953845:android:a5edce26ce6617149f7efc",
+        "android_client_info": {
+          "package_name": "com.example.dmilkapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879923953845-5750d930dlhu29spf15pl7jp1qhib9ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dmilkapplication",
+            "certificate_hash": "25f3226ed485408856938c518e5e7acfab8e8dbe"
+          }
+        },
+        {
+          "client_id": "879923953845-sl48v89fmut7l9dsgbesu8ktu5chqf49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dmilkapplication",
+            "certificate_hash": "8d700b1e2cf75eaa981c8d40b590697913e9dc22"
+          }
+        },
+        {
+          "client_id": "879923953845-us7cubp4tvoh9f17ffjavdt8ji88b0pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdwVwSKUBVF58MJaiwlpNDJw-NMIfXXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879923953845-us7cubp4tvoh9f17ffjavdt8ji88b0pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
